@@ -8,14 +8,15 @@ Cette application est conçue pour gérer les élèves, les cours, les notes et 
 - Mamadou Diouf (Développement web)
 
 🔗 Lien de l’application web
- [Cliquez ici pour accéder à l’application]((http://localhost/phpmyadmin/index.php?route=/database/structure&db=gestion_etablissement))
+ [Cliquez ici pour accéder à l’application] http://localhost/phpmyadmin/index.php?route=/database/structure&db=gestion_etablissement
    
 👥 Utilisateurs
 
  Étudiants
 - Accès aux notes  
 - Accès aux cours  
-- Consultation de l'emploi du temps  
+- Consultation de l'emploi du temps
+- 
 - Consultation du bulletin scolaire  
 
  Administration
